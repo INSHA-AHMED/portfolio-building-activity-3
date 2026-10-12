@@ -8,11 +8,5 @@ Learning Python and Data Structures and Algorithms.
 ## Interest
 Interested in software development and machine learning.
 
-## Interest
-Interested in software development and machine learning.
-
-## Interest
-Interested in software development and machine learning.
-
 ## Goal
 Goal: Build useful software projects and contribute to open source.
