@@ -7,3 +7,6 @@ Learning Python and Data Structures and Algorithms.
 
 ## Interest
 Interested in software development and machine learning.
+
+## Interest
+Interested in software development and machine learning.
