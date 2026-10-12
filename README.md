@@ -10,3 +10,9 @@ Interested in software development and machine learning.
 
 ## Goal
 Goal: Build useful software projects and contribute to open source.
+
+
+
+- **Flight Price Prediction:** A machine learning project that predicts flight prices.
+- **Smart Vacuum Cleaner Robot:** An IoT project focused on obstacle detection and navigation.
+- **Portfolio Website:** A personal portfolio showcasing my skills and projects.
